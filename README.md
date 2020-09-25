@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- name: Waka - Readme
-  uses: athul/waka-readme@v0.1.5
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
