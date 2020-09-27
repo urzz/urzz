@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java     41 mins         ███████████████▓░░░░░░░░░   62.97 % 
+YAML     22 mins         ████████▓░░░░░░░░░░░░░░░░   35.08 % 
 ```
 <!--END_SECTION:waka-->
