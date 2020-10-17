@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java     1 hr 41 mins    ████████████████░░░░░░░░░   63.42 % 
-Groovy   38 mins         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-YAML     17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Docker   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Java     1 hr 35 mins    ███████████████░░░░░░░░░░   60.04 % 
+Groovy   42 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.35 % 
+YAML     18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Docker   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
