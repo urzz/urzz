@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML   10 mins         ████████████████████████▒   97.56 % 
 ```
 <!--END_SECTION:waka-->
