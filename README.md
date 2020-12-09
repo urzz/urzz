@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-SQL    1 hr 10 mins    ███████████████████▒░░░░░   77.87 % 
-Java   20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.13 % 
+SQL    1 hr 47 mins    █████████████████████░░░░   83.69 % 
+Java   20 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
 ```
 <!--END_SECTION:waka-->
