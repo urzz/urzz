@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-SQL          1 hr 25 mins    ██████████████████░░░░░░░   72.57 % 
-Java         20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Other        5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Groovy       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+SQL          1 hr 25 mins    ████████████████▒░░░░░░░░   64.71 % 
+Java         30 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.32 % 
+Groovy       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 <!--END_SECTION:waka-->
