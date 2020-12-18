@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Groovy       26 mins         █████████░░░░░░░░░░░░░░░░   36.17 % 
-YAML         21 mins         ███████▒░░░░░░░░░░░░░░░░░   29.83 % 
-Java         13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Other        5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Properties   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+YAML         38 mins         ███████████░░░░░░░░░░░░░░   43.49 % 
+Groovy       26 mins         ███████▒░░░░░░░░░░░░░░░░░   29.13 % 
+Java         13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Other        5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Properties   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 ```
 <!--END_SECTION:waka-->
