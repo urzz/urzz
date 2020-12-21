@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML         38 mins         ███████████▓░░░░░░░░░░░░░   47.33 % 
-Groovy       26 mins         ████████░░░░░░░░░░░░░░░░░   32.39 % 
-Java         13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Properties   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+YAML         39 mins         ███████████▓░░░░░░░░░░░░░   47.01 % 
+Groovy       22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.90 % 
+Java         19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.67 % 
+Properties   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 <!--END_SECTION:waka-->
