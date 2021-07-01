@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java         3 hrs 17 mins   ██████████████████▒░░░░░░   72.89 % 
+XML          1 hr 6 mins     ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+SQL          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 <!--END_SECTION:waka-->
