@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java           23 hrs 26 mins  ████████████████████▓░░░░   83.23 % 
-XML            2 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-HTTP Request   1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-YAML           10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Java           23 hrs 10 mins  █████████████████████░░░░   83.42 % 
+XML            3 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+HTTP Request   56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+YAML           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Markdown       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 <!--END_SECTION:waka-->
