@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HCL    14 mins         ███████████▓░░░░░░░░░░░░░   46.06 % 
+XML    7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.84 % 
+Java   7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.42 % 
+YAML   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 ```
 <!--END_SECTION:waka-->
