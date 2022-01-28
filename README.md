@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java           9 hrs 31 mins   ████████████████▒░░░░░░░░   65.11 % 
-Markdown       2 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.63 % 
-YAML           36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Vue.js         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-HTTP Request   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Java       5 hrs 36 mins   ████████████░░░░░░░░░░░░░   47.40 % 
+Markdown   2 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.02 % 
+Vue.js     1 hr 36 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+YAML       35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+JSON       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 <!--END_SECTION:waka-->
