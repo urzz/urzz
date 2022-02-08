@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js   58 mins         ██████████████░░░░░░░░░░░   55.37 % 
-Java     42 mins         ██████████░░░░░░░░░░░░░░░   40.39 % 
-YAML     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Java     42 mins         ██████████████░░░░░░░░░░░   56.55 % 
+Other    28 mins         █████████▒░░░░░░░░░░░░░░░   37.61 % 
+YAML     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 ```
 <!--END_SECTION:waka-->
