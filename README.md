@@ -18,11 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             4 hrs 11 mins   ███████████████████████▒░   93.15 %
-Markdown         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-XML              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-YAML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
