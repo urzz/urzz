@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java           4 hrs 31 mins   ███████████████████████▒░   93.10 %
+XML            12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+HTTP Request   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
