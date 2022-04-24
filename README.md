@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JSON         1 hr 1 min      ████████████▓░░░░░░░░░░░░   51.09 %
-XML          18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-Other        15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Markdown   12 mins         █████████████████████████   99.81 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
