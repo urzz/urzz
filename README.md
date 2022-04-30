@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   12 mins         █████████████████████████   99.81 %
-TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
