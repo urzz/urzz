@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-YAML         1 hr 7 mins     ████████████░░░░░░░░░░░░░   48.07 %
-Markdown     1 hr 4 mins     ███████████▒░░░░░░░░░░░░░   45.28 %
-TOML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Docker       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown     1 hr 46 mins    █████████████░░░░░░░░░░░░   52.25 %
+YAML         1 hr 14 mins    █████████░░░░░░░░░░░░░░░░   36.64 %
+TOML         18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+Docker       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
