@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java           14 hrs 31 mins  ████████████████▓░░░░░░░░   66.29 %
-Markdown       2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-CFEngine3      1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-XML            1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Other          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Java           13 hrs 8 mins   ██████████████████░░░░░░░   71.87 %
+XML            1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+Markdown       1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+JavaScript     33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Other          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
