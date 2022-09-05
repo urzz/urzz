@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java           17 hrs 20 mins  ████████████████▒░░░░░░░░   65.54 %
-YAML           3 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
-Vue.js         1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-Docker         1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Other          57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Java           17 hrs 20 mins  █████████████████▓░░░░░░░   71.28 %
+YAML           2 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+Vue.js         1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Other          57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
