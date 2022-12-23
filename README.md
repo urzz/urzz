@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java    3 hrs 14 mins   █████████████████████▓░░░   86.77 %
-XML     21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
-Other   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Java   3 mins          ████████████████████░░░░░   79.51 %
+XML    0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.49 %
 ```
 
 <!--END_SECTION:waka-->
