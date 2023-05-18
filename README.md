@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java           8 hrs 56 mins   ██████████████████░░░░░░░   71.81 %
-YAML           1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-Bash           1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-Other          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Markdown       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Java           7 hrs 55 mins   ██████████████████▓░░░░░░   74.24 %
+Bash           1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+Other          33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+YAML           31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Markdown       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
 ```
 
 <!--END_SECTION:waka-->
