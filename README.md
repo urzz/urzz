@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java               7 hrs 51 mins   ██████████████████████▓░░   90.93 %
-XML                34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-Other              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-YAML               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-spring.factories   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java               9 hrs 34 mins   ███████████████████████░░   91.42 %
+XML                41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Other              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+YAML               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+spring.factories   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
