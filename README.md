@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java               9 hrs 34 mins   ███████████████████████░░   91.42 %
-XML                41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-Other              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-YAML               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-spring.factories   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java   6 hrs 6 mins    ███████████████████████░░   92.55 %
+XML    29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
