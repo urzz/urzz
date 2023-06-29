@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java   6 hrs 12 mins   █████████████████████▒░░░   85.84 %
-XML    1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+Java   4 hrs 46 mins   ████████████████████▒░░░░   80.78 %
+XML    1 hr 8 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
 YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
