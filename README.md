@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       30 mins         ████████░░░░░░░░░░░░░░░░░   31.87 %
-YAML         17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
-Markdown     13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-Assembly     9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-Docker       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+YAML       17 mins         ███████████▓░░░░░░░░░░░░░   46.26 %
+Markdown   12 mins         ████████▓░░░░░░░░░░░░░░░░   34.68 %
+Docker     7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
 ```
 
 <!--END_SECTION:waka-->
