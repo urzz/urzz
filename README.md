@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       1 hr 18 mins    ██████████████████████▓░░   90.46 %
-Markdown   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-Go         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
