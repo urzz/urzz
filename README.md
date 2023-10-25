@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       1 hr 3 mins     ████████████████▓░░░░░░░░   67.29 %
-Markdown   15 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
-JSON       10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-Ezhil      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-TOML       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+YAML       52 mins         ███████████████████░░░░░░   75.73 %
+JSON       9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+Markdown   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
 ```
 
 <!--END_SECTION:waka-->
