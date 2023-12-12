@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         22 mins         ██████████████████████▓░░   90.38 %
-Forth            2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-YAML             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Markdown         1 hr 1 min      ████████████████████████░   96.17 %
+Forth            2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
