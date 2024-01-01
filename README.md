@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 mins          ████████████████████████▓   98.39 %
-INI        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Other      9 mins          ██████████████▓░░░░░░░░░░   59.14 %
+Markdown   6 mins          ██████████░░░░░░░░░░░░░░░   40.42 %
+INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
