@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       10 mins         █████████████▓░░░░░░░░░░░   54.32 %
-Markdown   7 mins          ██████████▒░░░░░░░░░░░░░░   40.96 %
-Bash       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+YAML       1 hr 14 mins    ██████████░░░░░░░░░░░░░░░   39.52 %
+Vue.js     39 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
+Markdown   34 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
+JSON       27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
+Bash       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
 ```
 
 <!--END_SECTION:waka-->
