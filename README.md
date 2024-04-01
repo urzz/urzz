@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   17 mins         ████████████████████▓░░░░   82.24 %
-TOML     2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-Other    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-INI      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+TOML   2 mins          ███████████████████████░░   91.97 %
+INI    0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
 ```
 
 <!--END_SECTION:waka-->
