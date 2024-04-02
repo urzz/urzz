@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TOML   2 mins          ███████████████████████░░   91.97 %
-INI    0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
