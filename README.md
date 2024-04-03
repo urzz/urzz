@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+INI        1 hr 32 mins    ██████████████████▒░░░░░░   73.82 %
+TOML       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Vue.js     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Markdown   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+YAML       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
 ```
 
 <!--END_SECTION:waka-->
