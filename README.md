@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   52 mins         █████████████▒░░░░░░░░░░░   53.61 %
-YAML       45 mins         ███████████▓░░░░░░░░░░░░░   46.39 %
+YAML       31 mins         ██████████████▓░░░░░░░░░░   58.54 %
+Markdown   22 mins         ██████████▒░░░░░░░░░░░░░░   41.46 %
 ```
 
 <!--END_SECTION:waka-->
