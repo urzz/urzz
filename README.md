@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         12 hrs 11 mins  ████████████▒░░░░░░░░░░░░   49.96 %
-Terraform    6 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   28.47 %
-Markdown     2 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-Go           44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Bash         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+YAML         12 hrs 30 mins  ████████████▓░░░░░░░░░░░░   50.87 %
+Terraform    4 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
+Markdown     2 hrs 59 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+Bash         1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+Python       1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
 ```
 
 <!--END_SECTION:waka-->
