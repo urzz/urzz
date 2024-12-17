@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   19 mins         █████████████████████████   100.00 %
+Other         19 mins         ██████████▓░░░░░░░░░░░░░░   42.10 %
+Vue.js        12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
+CSS           9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
+HTML          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+YAML          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
