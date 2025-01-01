@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       2 hrs 45 mins   ███████████████▒░░░░░░░░░   61.05 %
-Other      55 mins         █████░░░░░░░░░░░░░░░░░░░░   20.53 %
-Markdown   34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
-Bash       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Docker     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Other      50 mins         █████████████▒░░░░░░░░░░░   52.99 %
+YAML       25 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.55 %
+Markdown   19 mins         █████░░░░░░░░░░░░░░░░░░░░   20.46 %
 ```
 
 <!--END_SECTION:waka-->
