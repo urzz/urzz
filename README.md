@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-SCSS       8 mins          ███████████████████░░░░░░   75.79 %
-TOML       0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-Other      0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-Markdown   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
