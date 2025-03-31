@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go      22 mins         ██████████████░░░░░░░░░░░   56.51 %
+Other   10 mins         ███████░░░░░░░░░░░░░░░░░░   27.49 %
+YAML    6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
 ```
 
 <!--END_SECTION:waka-->
