@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-SQL                32 mins         ██████████████████████▒░░   89.67 %
-Other              2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-Text               1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-reStructuredText   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+SQL                32 mins         █████████████████████▒░░░   85.49 %
+Other              2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+reStructuredText   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Text               1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
