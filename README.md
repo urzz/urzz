@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   6 mins          ████████████████████████▓   99.29 %
-Roff    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Other   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
