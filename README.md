@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Text    7 mins          █████████████████░░░░░░░░   67.84 %
-Other   3 mins          ████████░░░░░░░░░░░░░░░░░   32.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
