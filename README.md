@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       19 mins         ████████▓░░░░░░░░░░░░░░░░   34.08 %
-Other        16 mins         ███████▒░░░░░░░░░░░░░░░░░   29.33 %
-Markdown     11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.76 %
-Batchfile    9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Python       19 mins               ████████▓░░░░░░░░░░░░░░░░   34.08 %
+Other        16 mins               ███████▒░░░░░░░░░░░░░░░░░   29.33 %
+Markdown     11 mins               █████░░░░░░░░░░░░░░░░░░░░   19.76 %
+Batchfile    9 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
+Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
