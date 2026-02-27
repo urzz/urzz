@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-RPMSpec   3 mins                █████████████████████████   100.00 %
+Other     3 mins                █████████████▒░░░░░░░░░░░   53.40 %
+RPMSpec   3 mins                ███████████▓░░░░░░░░░░░░░   46.60 %
 ```
 
 <!--END_SECTION:waka-->
