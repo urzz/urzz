@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 secs                ████████████▓░░░░░░░░░░░░   51.03 %
-Text       0 secs                ████████████▒░░░░░░░░░░░░   48.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
