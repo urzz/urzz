@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   39 mins               ██████████████████████▒░░   89.14 %
-TOML       2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-Other      2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Markdown   26 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
